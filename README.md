@@ -1,4 +1,12 @@
-### Hi there 👋
+## Izcar Muñoz Torrez
+I'm a computer science engineer. 
+
+Things about me 🤠
+
+- Open Source Fan
+- Python community
+- Docker :D 
+- Everything about Amazon Web Service 
 
 <!--
 **Izcarmt95/Izcarmt95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
