@@ -4,7 +4,7 @@ I'm currently learning about architecture, administration and devOps on AWS clou
 I have two AWS certification, these are  [AWS Cloud Practitioner](https://www.credly.com/badges/b54a079d-4cd6-4538-88b3-94e775885077/public_url) and [AWS SysOps Administrator](https://www.credly.com/badges/39f932a5-3262-4482-8f6e-77b6d37594bb/public_url).  
 I'm preparing for the next certifications which are AWS Developer and AWS DevOps Engineer. 
 
-Things about me 🤠
+[Things about me 🤠](https://www.linkedin.com/in/izcar-mu%C3%B1oz-torrez-a01aa3161/)
 
 - Open Source Fan
 - AWS Certified
