@@ -1,4 +1,5 @@
 ## Izcar J. Muñoz-Torrez 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izcarmt95&hide=contribs,prs)
 I'm a Software Engineer 🧑🏻‍💻   
 I'm currently learning about architecture, administration and devOps on AWS cloud.  
 I have two AWS certification, these are  [AWS Cloud Practitioner](https://www.credly.com/badges/b54a079d-4cd6-4538-88b3-94e775885077/public_url) and [AWS SysOps Administrator](https://www.credly.com/badges/39f932a5-3262-4482-8f6e-77b6d37594bb/public_url).  
