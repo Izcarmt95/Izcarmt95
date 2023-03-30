@@ -1,5 +1,4 @@
 ## Izcar J. Muñoz-Torrez 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izcarmt95&hide=contribs,prs)
 
 I'm a Software Engineer 🧑🏻‍💻   
 I'm currently learning about architecture, administration and devOps on AWS cloud.  
